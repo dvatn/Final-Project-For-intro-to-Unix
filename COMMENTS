@@ -1,0 +1,1 @@
+change_grade should take three parameters for the search string grade and file. The arguments should be read in the __main__ block and then passed into change_grade.
