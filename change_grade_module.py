@@ -29,3 +29,6 @@ def main():
 # This is the standard boilerplate that calls the main() function.
 if __name__ == '__main__':
   main()
+
+#change_grade should take three parameters for the search string grade and file. The arguments should be read in
+#the __main__ block and then passed into change_grade.
